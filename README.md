@@ -11,4 +11,3 @@ $ this a image url web applctions using flutter and js and html ,
 
 the web site live priview link = https://ajayaxel.github.io/
 
-![Uploading Screenshot 2025-02-05 at 2.15.34 PM.png…]()
